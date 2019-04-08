@@ -1,0 +1,12 @@
+name: haskell-code-explorer-bug
+
+default-extensions:
+- TemplateHaskell
+
+dependencies:
+- base
+- template-haskell
+- yaml
+
+library:
+  source-dirs: src
